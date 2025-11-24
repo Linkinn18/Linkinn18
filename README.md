@@ -1,18 +1,11 @@
-# 👋 Olá! Eu sou **Fernando**
-
-### 📈 Estatísticas do GitHub
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Linkinn18&show_icons=true&theme=tokyonight) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Linkinn18&layout=compact&theme=tokyonight)
-
-</div>
+# 🧩 Olá! Eu sou **Fernando**
 
 ### 💻 Sobre mim
 - 🔭 Atualmente trabalhando em: **[Viposa S.A.]**
 - 🌱 Estudando/Aprendendo: **[Programação]**
 - 👯 Buscando colaborar em: **[Desenvolvimento OpenSource]**
 - 📫 Como me encontrar: **[Você não me encontra]**
-
+  
 ---
 
 ### 🚀 Tecnologias & Ferramentas
@@ -29,3 +22,6 @@
 ### 🌐 Onde me encontrar
 - Eu nem uso Rede Sociais, mas pra não dizer que não tenho nada:
 - **[Linkedin](https://www.linkedin.com/in/fernando-willrich-5512312b6/)**
+
+
+![fullmetal-banner](https://i.pinimg.com/originals/ad/3f/75/ad3f7549725f48b04048422ac3afee82.gif)
